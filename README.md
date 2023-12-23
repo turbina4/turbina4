@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I’m currently working on **volume mixer**<br><br>⚡ I’m currently learning **front-end, mysql, c++, python**
+🔨 I’m currently working on **RFID Cloner** and **Volume mixer**<br><br>⚡ I’m currently learning **front-end, mysql, c++**
 
 
 # 💻 Tech Stack:
